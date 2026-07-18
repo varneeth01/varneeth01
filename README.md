@@ -4,17 +4,17 @@
 
 ### Building **Founder OS** — an Open Source AI Operating System
 
-#### AI Agents • Cybersecurity • Developer Infrastructure • Open Source
+**AI Agents • Cybersecurity • Developer Infrastructure • Open Source**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=750&lines=Building+Founder+OS;AI+Agents+%7C+Cybersecurity+%7C+Open+Source;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Founder+OS;AI+Agents+%7C+Cybersecurity+%7C+Open+Source;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/varneeth01?tab=followers">
-<img src="https://img.shields.io/github/followers/varneeth01?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/varneeth01?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=varneeth01&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=varneeth01&style=for-the-badge&label=Profile%20Views"/>
 
 <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge"/>
 
@@ -48,44 +48,39 @@ Building...
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About
 
-I'm currently building **Founder OS**, an open-source AI operating system that combines intelligent agents, memory, MCP, automation, plugins, workflows, and developer tooling into one extensible platform.
+I'm currently building **Founder OS**, an open-source AI operating system focused on intelligent agents, memory, automation, MCP, plugins, workflows, and developer tooling.
 
-I enjoy solving challenging engineering problems across AI systems, infrastructure, and security while contributing to the open-source ecosystem.
+I enjoy building reliable software that combines AI, infrastructure, and security. I also enjoy contributing to open-source projects and collaborating with developers working on challenging engineering problems.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
+
+| Project | Description |
+|---------|-------------|
+| ⚡ Founder OS | Open-source AI operating system |
+| 🤖 AI Agents | Autonomous and multi-agent systems |
+| 🔌 MCP | Extensible tools, plugins & workflows |
+| 🛠 Developer Infrastructure | CLI, SDKs and automation |
+| 🔐 Security | Security-focused tooling & research |
+
+---
+
+# 🎯 Areas of Interest
 
 ```text
-██████████████████░░  Founder OS
-
-████████████████░░░░  AI Agents
-
-██████████████░░░░░░  Cybersecurity
-
-██████████████░░░░░░  Open Source
-
-█████████████░░░░░░░  Developer Tools
-
-████████████░░░░░░░░  Distributed Systems
+🤖 AI Agents
+🧠 LLM Infrastructure
+🔐 Cybersecurity
+⚙️ Developer Tools
+📦 MCP Ecosystem
+☁️ Cloud Infrastructure
+🦀 Rust
+🐍 Python
+🌍 Open Source
 ```
-
----
-
-# ⚡ Interests
-
-- 🤖 AI Agents
-- 🧠 LLM Infrastructure
-- 🔐 Cybersecurity
-- ⚙️ Developer Infrastructure
-- ☁️ Cloud Computing
-- 📦 MCP Ecosystem
-- 🚀 Autonomous Systems
-- 🦀 Rust
-- 🐍 Python
-- 🌍 Open Source
 
 ---
 
@@ -94,69 +89,49 @@ I enjoy solving challenging engineering problems across AI systems, infrastructu
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,rust,ts,go,cpp,java"/>
-
+<img src="https://skillicons.dev/icons?i=python,rust,ts,go,cpp,java" />
 </p>
 
 ### Frameworks & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,kubernetes,git,github,linux,postgres,mongodb,redis"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,kubernetes,linux,git,github,postgres,mongodb,redis,vscode" />
 </p>
 
-### AI & Infrastructure
+### Currently Exploring
 
-- PyTorch
-- Transformers
-- LangChain
-- Ollama
+- AI Agents
 - MCP
-- Vector Databases
-- FastAPI
-- Cloudflare
-- Docker
-- GitHub Actions
+- LLM Infrastructure
+- Distributed Systems
+- Secure Software Design
+- Cloud Infrastructure
+- Developer Experience
 
 ---
 
-# 🌍 Open Source
+# 🤝 Open to Collaborate
 
-I'm always interested in collaborating on projects involving
+I'm always interested in contributing to projects involving
 
-- AI
-- LLMs
-- Cybersecurity
-- Developer Tools
-- Infrastructure
-- Rust
-- Python
-- Automation
-- Open Source
+- 🤖 AI
+- 🧠 LLMs
+- 🔐 Cybersecurity
+- ⚡ Developer Tools
+- 🦀 Rust
+- 🐍 Python
+- ☁️ Infrastructure
+- 🌍 Open Source
 
-If you're building something exciting, I'd love to contribute.
-
----
-
-# 📂 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 Founder OS | Open-source AI Operating System |
-| 🤖 AI Agents | Autonomous multi-agent systems |
-| 🔌 MCP | Extensible plugin ecosystem |
-| ⚙️ Developer Tools | Tools that improve developer productivity |
-| 🔐 Cybersecurity | Security-focused tooling and research |
+If you're building something interesting, feel free to open an issue, start a discussion, or reach out.
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varneeth01&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=varneeth01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varneeth01&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -164,17 +139,7 @@ If you're building something exciting, I'd love to contribute.
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=varneeth01&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -184,67 +149,46 @@ If you're building something exciting, I'd love to contribute.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📚 Current Goals
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=varneeth01&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Release Founder OS v1
-- 🤖 Build production-ready AI agents
-- 🔐 Build cybersecurity tools
-- 🌍 Contribute to major open-source projects
-- 📚 Share technical knowledge
-- ⚡ Grow the Founder OS ecosystem
+- Build Founder OS into a production-ready open-source platform.
+- Contribute to AI and cybersecurity projects.
+- Improve developer tooling and automation.
+- Learn more about distributed systems and AI infrastructure.
+- Write clean, maintainable, and well-documented software.
 
 ---
 
-# 📖 Currently Exploring
+# 📌 Principles
 
-- AI Agents
-- Agentic Coding
-- MCP
-- Distributed Systems
-- Cybersecurity Research
-- Memory Architectures
-- AI Infrastructure
-
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
-
-</p>
+- Build in public.
+- Keep software simple.
+- Prefer open standards.
+- Prioritize security.
+- Document everything.
+- Automate repetitive work.
+- Learn continuously.
 
 ---
 
-# 🤝 Connect
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/varneeth01">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<a href="YOUR_X_URL">
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
@@ -253,10 +197,10 @@ If you're building something exciting, I'd love to contribute.
 
 <div align="center">
 
-### ⭐ Building the future, one commit at a time.
+### 💬 Building Founder OS
 
-*"Code. Secure. Automate. Repeat."*
+*An open-source AI operating system focused on intelligent agents, automation, memory, developer tools, and extensibility.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+**Always open to collaborating on AI and cybersecurity projects.**
 
 </div>
